@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "704503178765",
+    "project_id": "hw07-2a96f",
+    "storage_bucket": "hw07-2a96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704503178765:android:4e261a46587ef3bb3f9744",
+        "android_client_info": {
+          "package_name": "com.learn.hw07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704503178765-m4gq0sk8m1or5hs4pqkri05hvibj0l6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1j7lcqSR1rECT1GMZOqwcO6fzcROPbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704503178765-m4gq0sk8m1or5hs4pqkri05hvibj0l6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704503178765:android:f4600e1efe35a0ff3f9744",
+        "android_client_info": {
+          "package_name": "com.learn.instalike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704503178765-m4gq0sk8m1or5hs4pqkri05hvibj0l6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1j7lcqSR1rECT1GMZOqwcO6fzcROPbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704503178765-m4gq0sk8m1or5hs4pqkri05hvibj0l6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
