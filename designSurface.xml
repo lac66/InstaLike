@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_mix.xml" value="0.11875" />
+        <entry key="app/src/main/res/layout/fragment_registration.xml" value="0.11875" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.11875" />
+      </map>
+    </option>
+  </component>
+</application>
