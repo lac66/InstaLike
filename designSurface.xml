@@ -8,8 +8,9 @@
         <entry key="app/src/main/res/layout/activity_mix.xml" value="0.11875" />
         <entry key="app/src/main/res/layout/fragment_album.xml" value="0.11927083333333334" />
         <entry key="app/src/main/res/layout/fragment_mix_details.xml" value="0.11927083333333334" />
+        <entry key="app/src/main/res/layout/fragment_mixes.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_registration.xml" value="0.11875" />
-        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.11875" />
       </map>
     </option>
