@@ -2,12 +2,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_add_course.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_album.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.16354166666666667" />
         <entry key="app/src/main/res/layout/activity_create_new_mix.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_mix.xml" value="0.16354166666666667" />
-        <entry key="app/src/main/res/layout/add_track_row_item.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/add_track_row_item.xml" value="0.2056159420289855" />
+        <entry key="app/src/main/res/layout/course_row_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/detail_row_item.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/forecast_row_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_add_track.xml" value="0.2375" />
@@ -21,6 +23,7 @@
         <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.11875" />
         <entry key="app/src/main/res/layout/main_mixes_row_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/search_album_row_item.xml" value="0.2375" />
+        <entry key="app/src/main/res/menu/mymenu.xml" value="0.2942708333333333" />
       </map>
     </option>
   </component>
