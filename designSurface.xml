@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/detail_row_item.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/forecast_row_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_album.xml" value="0.2375" />
+        <entry key="app/src/main/res/layout/fragment_audio_player.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_mix_details.xml" value="0.11927083333333334" />
         <entry key="app/src/main/res/layout/fragment_mixes.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_registration.xml" value="0.11875" />
