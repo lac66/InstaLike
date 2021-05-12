@@ -4,11 +4,12 @@
       <map>
         <entry key="app/src/main/res/layout/activity_album.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.11614583333333334" />
-        <entry key="app/src/main/res/layout/activity_create_new_mix.xml" value="0.11875" />
+        <entry key="app/src/main/res/layout/activity_create_new_mix.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_mix.xml" value="0.11875" />
         <entry key="app/src/main/res/layout/detail_row_item.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/forecast_row_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_add_track.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_album.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_audio_player.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_mix_details.xml" value="0.11927083333333334" />
