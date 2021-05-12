@@ -12,7 +12,8 @@
         <entry key="app/src/main/res/layout/fragment_add_track.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_album.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_audio_player.xml" value="0.2375" />
-        <entry key="app/src/main/res/layout/fragment_mix_details.xml" value="0.11927083333333334" />
+        <entry key="app/src/main/res/layout/fragment_mix_details.xml" value="0.2056159420289855" />
+        <entry key="app/src/main/res/layout/fragment_mix_sharing.xml" value="0.2056159420289855" />
         <entry key="app/src/main/res/layout/fragment_mixes.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/fragment_registration.xml" value="0.11875" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2375" />
